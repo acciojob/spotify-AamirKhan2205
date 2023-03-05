@@ -1,4 +1,4 @@
-package driver;
+package com.driver;
 
 public class User {
     private String name;

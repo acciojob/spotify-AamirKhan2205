@@ -1,4 +1,4 @@
-package driver;
+package com.driver;
 
 import org.springframework.web.bind.annotation.*;
 

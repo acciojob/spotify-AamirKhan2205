@@ -1,4 +1,4 @@
-package driver;
+package com.driver;
 
 public class Playlist {
     private String title;
