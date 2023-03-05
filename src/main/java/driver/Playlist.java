@@ -1,6 +1,4 @@
-package com.driver;
-
-import java.util.List;
+package driver;
 
 public class Playlist {
     private String title;
